@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-## CDM BOOTCAMP 2026
+## CDM BOOTCAMP 2026 EDITED
 
 - [Read the documentation for project](docs/info.md)
 
