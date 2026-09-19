@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
-project:
-  wokwi_id:475558289700443137
+project: Tiny Tapeout Template Copy
+  wokwi_id:      475558289700443137
   title:        "Tiny Tapeout Template Copy"      # Project title
   author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
