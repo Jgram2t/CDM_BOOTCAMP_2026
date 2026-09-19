@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project: 
   wokwi_id:  475558289700443137
-  title:        "Tiny Tapeout Template Copy"      # Project title
-  author:       ""      # Your name
+  title:        "Tiny Tapeout Bootcamp 2026"      # Project title
+  author:       "Jerome Gamaru"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Tiny Tapeout Bootcamp 2026"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
